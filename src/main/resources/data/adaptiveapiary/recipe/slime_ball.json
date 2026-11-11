@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "adaptiveapiary:propolis"
+    }
+  },
+  "result": {
+    "id": "minecraft:slime_ball",
+    "count": 1
+  }
+}

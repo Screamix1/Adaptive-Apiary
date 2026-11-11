@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_jungle",
+  "features": "adaptiveapiary:tropical_hive",
+  "step": "vegetal_decoration"
+}

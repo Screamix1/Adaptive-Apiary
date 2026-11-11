@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "adaptiveapiary:block/wintry_hive_top",
+    "side": "adaptiveapiary:block/wintry_hive_side"
+  }
+}

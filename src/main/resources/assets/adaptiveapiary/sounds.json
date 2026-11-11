@@ -1,0 +1,10 @@
+{
+  "block.hive.buzz": {
+    "subtitle": "subtitles.adaptiveapiary.block.hive.buzz",
+    "sounds": [
+      { "name": "adaptiveapiary:block/hive/buzz1", "attenuation_distance": 10 },
+      { "name": "adaptiveapiary:block/hive/buzz2", "attenuation_distance": 10 },
+      { "name": "adaptiveapiary:block/hive/buzz3", "attenuation_distance": 10 }
+    ]
+  }
+}

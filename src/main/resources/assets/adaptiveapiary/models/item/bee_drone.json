@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adaptiveapiary:item/bee_drone_outline",
+    "layer1": "adaptiveapiary:item/bee_body",
+    "layer2": "adaptiveapiary:item/bee_drone_extra"
+  }
+}

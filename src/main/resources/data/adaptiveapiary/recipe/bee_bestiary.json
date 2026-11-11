@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "minecraft:book" },
+    { "item": "adaptiveapiary:beeswax" }
+  ],
+  "result": {
+    "id": "adaptiveapiary:bee_bestiary"
+  }
+}

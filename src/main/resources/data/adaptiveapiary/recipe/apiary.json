@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "PFP",
+    "PPP"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "F": {
+      "item": "adaptiveapiary:frame"
+    }
+  },
+  "result": {
+    "id": "adaptiveapiary:apiary",
+    "count": 1
+  }
+}

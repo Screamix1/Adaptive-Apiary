@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "WH",
+    "HW"
+  ],
+  "key": {
+    "W": {
+      "item": "adaptiveapiary:beeswax"
+    },
+    "H": {
+      "item": "adaptiveapiary:honey_drop"
+    }
+  },
+  "result": {
+    "id": "minecraft:honeycomb",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "adaptiveapiary:block/marshy_hive_top",
+    "side": "adaptiveapiary:block/marshy_hive_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "adaptiveapiary:block/apiary_top",
+    "bottom": "adaptiveapiary:block/apiary_bottom",
+    "side": "adaptiveapiary:block/apiary_side"
+  }
+}

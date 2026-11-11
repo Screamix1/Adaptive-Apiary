@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "working=false": {
+      "model": "adaptiveapiary:block/apiary"
+    },
+    "working=true": {
+      "model": "adaptiveapiary:block/apiary"
+    }
+  }
+}

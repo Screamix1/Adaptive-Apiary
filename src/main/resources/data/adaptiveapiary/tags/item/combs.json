@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "adaptiveapiary:honey_comb",
+    "adaptiveapiary:dripping_comb",
+    "adaptiveapiary:stringy_comb",
+    "adaptiveapiary:parched_comb",
+    "adaptiveapiary:silky_comb",
+    "adaptiveapiary:frozen_comb",
+    "adaptiveapiary:mossy_comb",
+    "adaptiveapiary:rocky_comb",
+    "adaptiveapiary:resource_comb"
+  ]
+}
